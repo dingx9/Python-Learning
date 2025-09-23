@@ -46,3 +46,4 @@ def ultimate_password_game(min_num=1, max_num=100):
 
 if __name__ == "__main__":
     ultimate_password_game(1,50)
+###    1-50猜數＆判別基偶數
