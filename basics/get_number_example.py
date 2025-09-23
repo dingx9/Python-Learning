@@ -1,5 +1,12 @@
+ # basics/get_number.py
+
 
 def get_number(prompt):
+    """
+    要求使用者輸入 1~50 之間的整數，最多嘗試 3 次。
+    超過 3 次錯誤或輸入不合法則返回 None。
+    """
+
     attempts = 0
     while True:
         if attempts >= 3:
