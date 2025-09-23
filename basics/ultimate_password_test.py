@@ -1,4 +1,4 @@
-# 檔名：ultimate_password_game.py
+# 檔名：ultimate_password_test.py
 # 說明：終極密碼猜數字遊戲，提示範圍隨猜測自動縮小，並判斷奇偶數
 
 
