@@ -41,5 +41,5 @@ def ultimate_password_game(min_num=1, max_num=100):
             print(f"你總共猜了 {tries} 次")
             
 if __name__ == "__main__":
-    ultimate_password_game(1,50)
+    ultimate_password_game(1,50)  ##範圍設定(1~50)
 
