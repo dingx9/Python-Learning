@@ -42,7 +42,7 @@ def ultimate_password_game(min_num=1, max_num=100):
             print(f"哈哈哈你爆掉了！數字就是 {secret}")
             print(f"你總共猜了 {tries} 次")
             # 奇偶檢查
-            print("答案是偶數 " if secret % 2 == 0 else "答案是奇數 ")
+            print("答案是偶數 " if secret % 2 == 0 else "答案是奇數 ")  ##可刪 練習用
 
 if __name__ == "__main__":
     ultimate_password_game(1,50)
