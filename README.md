@@ -4,7 +4,7 @@
 
 - basics/ : 基礎語法練習
 - algorithms/ : 演算法練習
-- trading_strategies/ : 交易策略
+- trading_strategies/ : 交易策略(部分策略有隱藏)
 - projects/ : 小專案
 - （data_analysis/ : 數據分析）
 
