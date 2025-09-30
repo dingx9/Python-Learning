@@ -61,14 +61,13 @@
 ## 專案結構
 
 quant_trading_strategy/
-│
-├── README.md
-├── requirements.txt
-├── backtest.py
-├── optimize.py
-├── utils.py
-├── data/
-└── plots/
+├── README.md # 專案說明文件
+├── requirements.txt # Python 套件需求
+├── backtest.py # 回測主程式
+├── optimize.py # 參數優化程式 (Optuna)
+├── utils.py # 工具函數
+└── data/ # 歷史資料存放資料夾
+
 
 ---
 
